@@ -12,19 +12,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna&display=swap" rel="stylesheet">
 </head>
 <body>
-   <div class="navbar">
-    <a href="index.html"><h2 class="title">Candle Store</h2></a>
-    <div class="cart">
-        <a href="cart.html"><i class="bi bi-bag-heart"></i></a>
-        <div id="cartAmount" class="cartAmount">0</div>
-    </div>
-   </div>
-
-   <div class="shop" id="shop">
+    <div class="navbar">
+        <a href="index.html"><h2 class="title">Candle Store</h2></a>
+        <a href="cart.html">
+            <div class="cart">
+                <i class="bi bi-bag-heart"></i>
+                <div id="cartAmount" class="cartAmount">0</div>
+            </div>
+        </a>
+    </div> 
+    <div id="label" class="text-center"></div>
+    <div id="shopping-cart" class="shopping-cart"></div> 
     
-   </div>
 </body>
-
-<script src="./src/Data.js"></script>
-<script src="./src/script.js"></script>
+<script src="src/Data.js"></script>
+<script src="./src/cart.js"></script>
 </html>
