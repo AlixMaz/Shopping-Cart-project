@@ -17,3 +17,7 @@ if items are added :
 - see the updated cost of every item
 
 Fully responsive design, working on every screen size. 
+
+Preview:
+![candle-store-project-cartitems](https://github.com/AlixMaz/Shopping-Cart-project/assets/174581400/bdbfcf98-b022-4c03-9bfe-0109006c7a17)
+![candle-store-project-cartitems](https://github.com/AlixMaz/Shopping-Cart-project/assets/174581400/e5dcc9a1-ea7c-4909-940d-fa9c87aded9a)
