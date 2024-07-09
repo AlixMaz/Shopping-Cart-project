@@ -57,6 +57,7 @@ let increment = (id) => {
     localStorage.setItem("data", JSON.stringify(basket));
 }
 
+/* REMOVING FROM BASKET */
 let decrement = (id) => {
     let selectedItem = id;
     let search = basket.find((basketobject) => basketobject.id === selectedItem.id);
@@ -72,6 +73,7 @@ let decrement = (id) => {
     localStorage.setItem("data", JSON.stringify(basket));
 }
 
+/* UPDATING CART AMOUNT */
 let update = (id) => {
     let search = basket.find((basketobject) => basketobject.id === id);
     document.getElementById(id).innerHTML = search.item;

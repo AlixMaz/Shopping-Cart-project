@@ -49,7 +49,7 @@ let shopItemsData = [{
     img: "./assets/candle8.jpg"
 },{
     id: "item9",
-    name: "Mushroom Candle",
+    name: "Small Candle",
     price: 10,
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     img: "./assets/candle9.jpg"
