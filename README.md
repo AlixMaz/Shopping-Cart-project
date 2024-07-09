@@ -19,5 +19,5 @@ if items are added :
 Fully responsive design, working on every screen size. 
 
 Preview:
-![candle-store-project-cartitems](https://github.com/AlixMaz/Shopping-Cart-project/assets/174581400/bdbfcf98-b022-4c03-9bfe-0109006c7a17)
-![candle-store-project-cartitems](https://github.com/AlixMaz/Shopping-Cart-project/assets/174581400/e5dcc9a1-ea7c-4909-940d-fa9c87aded9a)
+![candle-store-project-mainpage](https://github.com/AlixMaz/Shopping-Cart-project/assets/174581400/ef8a50a2-0660-4fc6-91c4-cfdeb00734ef)
+![candle-store-project-cartitems](https://github.com/AlixMaz/Shopping-Cart-project/assets/174581400/4667c8d0-e63a-449c-83ca-a9126243dbe6)
